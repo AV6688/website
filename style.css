@@ -1,0 +1,16 @@
+#Mycarousel{
+    background-color: aqua;
+    
+}
+#Mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+    
+}
+.carousel-inner p{
+    
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: darkblue;
+    font-size: 20px;
+}
